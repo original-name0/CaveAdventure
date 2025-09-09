@@ -1,6 +1,6 @@
 ## Cave adventure
 Small game made in Python as a project for my programing class.
-Game is in slovak language.
+Game is in Slovak language.
 ## Install Libraries
 tkinter
 random

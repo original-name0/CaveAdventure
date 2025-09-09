@@ -1,5 +1,5 @@
 ## Cave adventure
-Small game made in Python as a project for my programing class.\n
+Small game made in Python as a project for my programing class.
 Game is in slovak language.
 ## Install Libraries
 tkinter
